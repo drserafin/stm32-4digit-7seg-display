@@ -1,0 +1,12 @@
+build/
+Debug/
+Release/
+.vscode/
+.settings/
+*.o
+*.elf
+*.bin
+*.hex
+*.log
+.DS_Store
+Drivers/
