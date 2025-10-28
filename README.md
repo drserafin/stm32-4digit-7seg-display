@@ -1,6 +1,8 @@
 # STM32 4-Digit 7-Segment Display Lab
 
 This repository contains the lab project for configuring a **4-digit 7-segment display** using an **STM32F0 Discovery board**.
+[![Watch the demo video](https://img.youtube.com/vi/SvJLYGhE8S0/0.jpg)](https://youtu.be/SvJLYGhE8S0)
+
 
 ## Project Description
 
